@@ -22,7 +22,6 @@ local enableZoom = true
 
 function onCreatePost()
     triggerEvent('Camera Follow Pos',xx,yy)
-    setTextString('botplayTxt','')
 end
 
 function onUpdate(elapsed)
