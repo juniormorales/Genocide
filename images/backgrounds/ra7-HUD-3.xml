@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ra7-HUD-3.png">
+
+<SubTexture name="BH HUD0000" x="0" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0001" x="222" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0002" x="444" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0003" x="666" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0004" x="888" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0005" x="1110" y="0" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+
+<SubTexture name="BH HUD0006" x="0" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0007" x="222" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0008" x="444" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0009" x="666" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0010" x="888" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0011" x="1110" y="167" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+
+<SubTexture name="BH HUD0012" x="0" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0013" x="222" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0014" x="444" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0015" x="666" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0016" x="888" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+<SubTexture name="BH HUD0017" x="1110" y="334" width="218" height="163" frameX="0" frameY="0" frameWidth="218" frameHeight="163" />
+
+</TextureAtlas>
